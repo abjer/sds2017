@@ -13,6 +13,10 @@ Adding removing cells (command mode only)
 - delete a cell:`d`,`d` (press `d` twice)
 - add cell: `a` above, `b` below
 
+Converting between markdown and code (command mode only)
+- as markdown: `m`
+- as code: `y`
+
 See all Jupyter keyboard shortcuts in menu (top): `Help > Keyboard Shortcuts`, or press `H` in command mode.
 
 *Autocompletion*
