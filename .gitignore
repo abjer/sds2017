@@ -4,3 +4,6 @@ _site
 .DS_Store
 .RHistory
 nopub/
+
+*.html
+*.ipynb_checkpoints/
