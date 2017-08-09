@@ -12,7 +12,7 @@ A tentative syllabus, subject to change, is below.
 |Aug 7| 13-15 | Introduction to Python | [An introduction to Python](https://abjer.github.io/sds/slides/intro_python.pdf) ([notebook](https://abjer.github.io/sds/slides/intro_python.ipynb))
 |Aug 8| 9-12 | Data Visualization | [Modern Python Plotting](https://abjer.github.io/sds/slides/plotting.pdf) ([notebook](https://abjer.github.io/sds/slides/plotting.ipynb))
 |Aug 8| 13-15 | Data Manipulation (I) | [Data structuring](https://abjer.github.io/sds/slides/data_structuring.pdf) ([notebook](https://abjer.github.io/sds/slides/data_structuring.ipynb))
-|Aug 9| 9-12 | Data Manipulation (II) | ([lecture exercise](https://abjer.github.io/sds/slides/in_class_exercise.ipynb))
+|Aug 9| 9-12 | Data Manipulation (II) | ([lecture exercise](https://abjer.github.io/sds/slides/in_class_exercise.ipynb) [[solution](https://abjer.github.io/sds/slides/in_class_exercise_solution.ipynb)])
 |Aug 9| 13-15 | Exercises + Brainstorming | [Ex 1: Hollywood’s gender divide](https://abjer.github.io/sds/posts/2017/08/03/exercise-1.html)
 |Aug 10| 9-12 | Generating New Data |
 |Aug 10| 13-15 | Exercises + Brainstorming |
