@@ -17,6 +17,7 @@ A tentative syllabus, subject to change, is below.
 |Aug 10| 9-12 | Generating New Data |[Lecture + exercises + *SOLUTION*](https://dl.dropboxusercontent.com/u/5572785/Collecting%20data%20from%20the%20web%20slides.pdf) ([notebook (includes solution)](https://dl.dropboxusercontent.com/u/5572785/Collecting%20data%20from%20the%20web.ipynb))
 |Aug 10| 13-15 | Exercises + Brainstorming |
 |Aug 11| 9-12 | Reproducible Research | [Reproducible research](https://abjer.github.io/sds/slides/reproducible.pdf) ([notebook](https://abjer.github.io/sds/slides/reproducible.ipynb))
+|Aug 11| 10-12 | Interactive Visualizations | [Interactive Visualizations slides](https://dl.dropboxusercontent.com/u/5572785/Interactive%20Plotting%20in%20Python%20slides.pdf) ([notebook](https://dl.dropboxusercontent.com/u/5572785/Interactive%20Plotting%20in%20Python.ipynb))
 |Aug 11| 13-15 |  Big Data in Social Science | [Big data](https://abjer.github.io/sds/slides/Big%20Data%20in%20Economics%20and%20beyond%20SDS_August11_2017.pdf) ([ppt](https://abjer.github.io/sds/slides/Big%20Data%20in%20Economics%20and%20beyond%20SDS_August11_2017.pptx))
 |Aug 14| 9-12 |  Causation & Prediction |
 |Aug 14| 13-15 | Exercise + Brainstorming |
