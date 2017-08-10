@@ -14,7 +14,7 @@ A tentative syllabus, subject to change, is below.
 |Aug 8| 13-15 | Data Manipulation (I) | [Data structuring](https://abjer.github.io/sds/slides/data_structuring.pdf) ([notebook](https://abjer.github.io/sds/slides/data_structuring.ipynb))
 |Aug 9| 9-12 | Data Manipulation (II) | ([lecture exercise](https://abjer.github.io/sds/slides/in_class_exercise.ipynb))
 |Aug 9| 13-15 | Exercises + Brainstorming | [Ex 1: Hollywood’s gender divide](https://abjer.github.io/sds/posts/2017/08/03/exercise-1.html) ([solution](https://abjer.github.io/sds/code/exercise_1_solution.ipynb))
-|Aug 10| 9-12 | Generating New Data |[Lecture + exercises](https://www.dropbox.com/s/1v73upcwcc8qnne/Collecting%20data%20from%20the%20web.ipynb?dl=0)
+|Aug 10| 9-12 | Generating New Data |[Lecture + exercises](https://dl.dropboxusercontent.com/u/5572785/Collecting%20data%20from%20the%20web%20slides.pdf) | [notebook](https://dl.dropboxusercontent.com/u/5572785/Collecting%20data%20from%20the%20web.ipynb)
 |Aug 10| 13-15 | Exercises + Brainstorming |
 |Aug 11| 9-12 | Reproducible Research |
 |Aug 11| 13-15 |  Big Data in Social Science |
