@@ -1,4 +1,8 @@
-# Jupyter cheatsheet
+---
+layout: post
+title:  "Jupyter cheatsheet"
+categories: posts
+---
 
 This is an overview of the essential Jupyter hacks that we've covered in the course. If you have one that you wish to share, make a pull request in our course page's [GitHub repo](https://github.com/abjer/sds).
 
