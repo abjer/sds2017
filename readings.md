@@ -200,26 +200,6 @@ Matthias Feurer, Aaron Klein, Katharina Eggensperger, Jost Springenberg, Manuel 
 
 ### August 16
 
-*Keywords:* Privacy and ethics.
-
-**Required**
-
-- Alessandro Acquisti et al. 2015. "[Privacy and human behavior in the age of information](http://science.sciencemag.org/content/347/6221/509.full.pdf+html)." Science 347, 509.
-
-- Heffetz, Ori, and Katrina Ligett. 2014. "[Privacy and Data-Based Research](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.2.75)." *The Journal of Economic Perspectives*, 28.2: 75-98.
-
-- Mittelstadt et al. 2016. ["The ethics of algorithms: Mapping the debate."](http://www.academia.edu/download/51111739/Mittelstadt_et_al_2016_-_The_Ethics_of_Algorithms.pdf) *Big Data & Society* July-December, 1-21.
-
-- Shiab, Nael. 2015. "[Web Scraping: A Journalist’s Guide](http://gijn.org/2015/08/11/web-scraping-a-journalists-guide/)". Global Investigative Journalism Network.
-
-**Background**
-
-- Alessandro Acquisti. 2015. The Economics and Behavioral Economics of Privacy. Chapter 3 in *Privacy, Big Data, and the Public Good: Frameworks for Engagement* (eds. Julia Lane, Victoria Stodden, Stefan Bender, Helen Nissenbaum). Cambridge University Press.
-
-- Fabian Neuhaus & Timothy Webmoor. 2012. "[AGILE ETHICS FOR MASSIFIED RESEARCH AND VISUALIZATION](http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.616519)." Information, Communication & Society 15:1, 43-65
-
-## August 17
-
 *Keywords*: Text as Data.
 
 **Supervised Learning in Natural Language Processing**
@@ -240,3 +220,26 @@ Matthias Feurer, Aaron Klein, Katharina Eggensperger, Jost Springenberg, Manuel 
 
 - King, G., Pan, J., & Roberts, M. E. 2013. [How censorship in China allows government criticism but silences collective expression](http://gking.harvard.edu/files/censored.pdf). *American Political Science Review*, 107(02), 326-343.
 -Andrea Ceron, Luigi Curini, Stefano M. Iacus. "[Using Sentiment Analysis to Monitor Electoral Campaigns: Method Matters—Evidence From the United States and Italy](http://journals.sagepub.com/doi/abs/10.1177/0894439314521983)
+
+
+## August 17
+
+
+
+*Keywords:* Privacy and ethics.
+
+**Required**
+
+- Alessandro Acquisti et al. 2015. "[Privacy and human behavior in the age of information](http://science.sciencemag.org/content/347/6221/509.full.pdf+html)." Science 347, 509.
+
+- Heffetz, Ori, and Katrina Ligett. 2014. "[Privacy and Data-Based Research](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.2.75)." *The Journal of Economic Perspectives*, 28.2: 75-98.
+
+- Mittelstadt et al. 2016. ["The ethics of algorithms: Mapping the debate."](http://www.academia.edu/download/51111739/Mittelstadt_et_al_2016_-_The_Ethics_of_Algorithms.pdf) *Big Data & Society* July-December, 1-21.
+
+- Shiab, Nael. 2015. "[Web Scraping: A Journalist’s Guide](http://gijn.org/2015/08/11/web-scraping-a-journalists-guide/)". Global Investigative Journalism Network.
+
+**Background**
+
+- Alessandro Acquisti. 2015. The Economics and Behavioral Economics of Privacy. Chapter 3 in *Privacy, Big Data, and the Public Good: Frameworks for Engagement* (eds. Julia Lane, Victoria Stodden, Stefan Bender, Helen Nissenbaum). Cambridge University Press.
+
+- Fabian Neuhaus & Timothy Webmoor. 2012. "[AGILE ETHICS FOR MASSIFIED RESEARCH AND VISUALIZATION](http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.616519)." Information, Communication & Society 15:1, 43-65
