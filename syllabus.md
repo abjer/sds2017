@@ -21,9 +21,9 @@ A tentative syllabus, subject to change, is below.
 |Aug 11| 13-15 |  Big Data in Social Science | [Big data](https://abjer.github.io/sds/slides/Big%20Data%20in%20Economics%20and%20beyond%20SDS_August11_2017.pdf) ([ppt](https://abjer.github.io/sds/slides/Big%20Data%20in%20Economics%20and%20beyond%20SDS_August11_2017.pptx))
 |Aug 14| 9-12 |  Causation & Prediction |
 |Aug 14| 13-15 | Exercise + Brainstorming |
-|Aug 15| 9-12 |  Statistical Learning |
+|Aug 15| 9-12 |  Text as Data |
 |Aug 15| 13-15 | Exercise + Brainstorming |
-|Aug 16| 9-12 |  Text as Data |
+|Aug 16| 9-12 |  Classification (of Text) and Feature Engineering |
 |Aug 17| 9-12 |  Privacy |
 |Aug 18| 9-12 |  Wrap Up |
 | | | ---------------  <font color="red"> End of course </font> --------------- | |
