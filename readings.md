@@ -182,23 +182,44 @@ Below are some interesting academic papers using data scraped from online source
 
 ### August 15
 
-*Keywords*: Automated machine learning, unsupervised learning, feature engineering.
-
+*Keywords*: Text as Data.
 
 **Required**
+- Text analysis. BDSS Chapter 7.
+- Grimmer, Justin, and Brandon M. Stewart. 2013. "[Text as data: The promise and pitfalls of automatic content analysis methods for political texts](https://pan.oxfordjournals.org/content/early/2013/01/21/pan.mps028.short)." *Political Analysis*, 21.3: 267-297.
 
-*Automated machine learning.*
-- Randal S. Olson, Nathan Bartley, Ryan J. Urbanowicz, Jason H. Moore (2016). [Evaluation of a Tree-based Pipeline Optimization Tool for Automating Data Science](https://arxiv.org/abs/1603.06212)
+**Inspiration**
+
+- King, G., Pan, J., & Roberts, M. E. 2013. [How censorship in China allows government criticism but silences collective expression](http://gking.harvard.edu/files/censored.pdf). *American Political Science Review*, 107(02), 326-343.
+-Andrea Ceron, Luigi Curini, Stefano M. Iacus. "[Using Sentiment Analysis to Monitor Electoral Campaigns: Method Matters—Evidence From the United States and Italy](http://journals.sagepub.com/doi/abs/10.1177/0894439314521983)
+
+
+### August 16
+
+*Keywords*: Classification, unsupervised learning, feature engineering.
+
+**Required**
 
 *Learning from unlabeled data using unsupervised learning.*
 - BDSS Chapter 6.5.1 about unsupervised learning.
 
+*Automated machine learning.*
+- Randal S. Olson, Nathan Bartley, Ryan J. Urbanowicz, Jason H. Moore (2016). [Evaluation of a Tree-based Pipeline Optimization Tool for Automating Data Science](https://arxiv.org/abs/1603.06212)
 
-**Background**
+**Unsupervised learning in natural language processing**
+- Word Embeddings. Baroni et al. (2014). "[Don't count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors.](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf)"
 
-Matthias Feurer, Aaron Klein, Katharina Eggensperger, Jost Springenberg, Manuel Blum, and Frank Hutter (2015). ["Efficient and Robust Automated Machine Learning"](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
+**Background: wordembeddings and transfer learning**
+- Word2Vec. Mikolov et al. (2013). "[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)"
+- Glove: "[Global Vectors for Word Representation.](https://nlp.stanford.edu/pubs/glove.pdf)"
+*Transfer Learning*:
+- Learning to understand sentiment from unlabeled data. "[Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/)"
+- "[Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm]"](https://arxiv.org/abs/1708.00524) 
 
-### August 16
+
+## August 17
+
+
 
 *Keywords:* Privacy and ethics.
 
@@ -217,26 +238,3 @@ Matthias Feurer, Aaron Klein, Katharina Eggensperger, Jost Springenberg, Manuel 
 - Alessandro Acquisti. 2015. The Economics and Behavioral Economics of Privacy. Chapter 3 in *Privacy, Big Data, and the Public Good: Frameworks for Engagement* (eds. Julia Lane, Victoria Stodden, Stefan Bender, Helen Nissenbaum). Cambridge University Press.
 
 - Fabian Neuhaus & Timothy Webmoor. 2012. "[AGILE ETHICS FOR MASSIFIED RESEARCH AND VISUALIZATION](http://www.tandfonline.com/doi/abs/10.1080/1369118X.2011.616519)." Information, Communication & Society 15:1, 43-65
-
-## August 17
-
-*Keywords*: Text as Data.
-
-**Supervised Learning in Natural Language Processing**
-
-- Text analysis. BDSS Chapter 7.
-- Grimmer, Justin, and Brandon M. Stewart. 2013. "[Text as data: The promise and pitfalls of automatic content analysis methods for political texts](https://pan.oxfordjournals.org/content/early/2013/01/21/pan.mps028.short)." *Political Analysis*, 21.3: 267-297.
-
-**Unsupervised learning in natural language processing**
-- Word Embeddings. Baroni et al. (2014). "[Don't count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors.](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf)"
-
-**Background +  more on wordembeddings**
-
-- Word2Vec. Mikolov et al. (2013). "[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)"
-- Glove: "[Global Vectors for Word Representation.](https://nlp.stanford.edu/pubs/glove.pdf)"
-- Learning to understand sentiment from unlabeled data. "[Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/)"
-
-**Inspiration**
-
-- King, G., Pan, J., & Roberts, M. E. 2013. [How censorship in China allows government criticism but silences collective expression](http://gking.harvard.edu/files/censored.pdf). *American Political Science Review*, 107(02), 326-343.
--Andrea Ceron, Luigi Curini, Stefano M. Iacus. "[Using Sentiment Analysis to Monitor Electoral Campaigns: Method Matters—Evidence From the United States and Italy](http://journals.sagepub.com/doi/abs/10.1177/0894439314521983)
