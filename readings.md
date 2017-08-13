@@ -198,8 +198,10 @@ Below are some interesting academic papers using data scraped from online source
 
 *Keywords*: Classification, unsupervised learning, feature engineering.
 **Required**
+
 *Learning from unlabeled data using unsupervised learning.*
 - BDSS Chapter 6.5.1 about unsupervised learning.
+
 *Automated machine learning.*
 - Randal S. Olson, Nathan Bartley, Ryan J. Urbanowicz, Jason H. Moore (2016). [Evaluation of a Tree-based Pipeline Optimization Tool for Automating Data Science](https://arxiv.org/abs/1603.06212)
 
