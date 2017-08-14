@@ -21,7 +21,7 @@ A tentative syllabus, subject to change, is below.
 |Aug 11| 13-15 |  Big Data in Social Science | [Big data](https://abjer.github.io/sds/slides/Big%20Data%20in%20Economics%20and%20beyond%20SDS_August11_2017.pdf) ([ppt](https://abjer.github.io/sds/slides/Big%20Data%20in%20Economics%20and%20beyond%20SDS_August11_2017.pptx))
 |Aug 14| 9-12 |  Causation & Prediction | [Causation & Prediction](https://abjer.github.io/sds/slides/causal_supervised.pdf) ([notebook](https://abjer.github.io/sds/slides/causal_supervised.ipynb))
 |Aug 14| 13-15 | Exercise + Brainstorming | [Ex 3: causal and supervised](https://abjer.github.io/sds/posts/2017/08/13/exercise-3.html)
-|Aug 15| 9-12 |  Text as Data | [Slides + Exercises](https://dl.dropboxusercontent.com/u/5572785/Text%20as%20Data%20slides.pdf) [Notebook here](https://dl.dropboxusercontent.com/u/5572785/Text%20as%20Data.ipynb)
+|Aug 15| 9-12 |  Text as Data | [Slides + Exercises](https://dl.dropboxusercontent.com/u/5572785/Text%20as%20Data%20slides.pdf) ([Notebook here](https://dl.dropboxusercontent.com/u/5572785/Text%20as%20Data.ipynb))
 |Aug 15| 13-15 | Exercise + Brainstorming |
 |Aug 16| 9-12 |  Classification (of Text) and Feature Engineering |
 |Aug 17| 9-12 |  Privacy |
