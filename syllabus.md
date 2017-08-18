@@ -23,7 +23,7 @@ A tentative syllabus, subject to change, is below.
 |Aug 14| 13-15 | Exercise + Brainstorming | [Ex 3: causal and supervised](https://abjer.github.io/sds/posts/2017/08/13/exercise-3.html) ([solution](https://abjer.github.io/sds/code/exercise_3_solution.ipynb))
 |Aug 15| 9-12 |  Text as Data | [Slides + Exercises](https://dl.dropboxusercontent.com/u/5572785/Text%20as%20Data%20slides.pdf) ([Notebook here](https://dl.dropboxusercontent.com/u/5572785/Text%20as%20Data.ipynb))
 |Aug 15| 13-15 | Exercise + Brainstorming |
-|Aug 16| 9-12 |  Classification (of Text) and Feature Engineering |[Slides and Exercises](https://dl.dropboxusercontent.com/u/5572785/Classification%20and%20advanced%20feature%20engineering%20slides.pdf) ([Notebook right click here](https://dl.dropboxusercontent.com/u/5572785/Classification%20and%20advanced%20feature%20engineering.ipynb))
+|Aug 16| 9-12 |  Classification (of Text) and Feature Engineering |[Slides and Exercises](https://dl.dropboxusercontent.com/u/5572785/Classification%20and%20advanced%20feature%20engineering%20slides.pdf) ([Notebook + Solutions, right click here](https://dl.dropboxusercontent.com/u/5572785/Classification%20and%20advanced%20feature%20engineering.ipynb))
 |Aug 17| 9-12 |  Privacy |[Slides](https://abjer.github.io/sds/slides/privacy_ethics_SDS_Aug17_2017.pdf) ([powerpoint](https://abjer.github.io/sds/slides/privacy_ethics_SDS_Aug17_2017.pptx))
 |Aug 18| 9-12 |  Wrap Up |
 | | | ---------------  <font color="red"> End of course </font> --------------- | |
